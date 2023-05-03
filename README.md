@@ -4,7 +4,7 @@
 
 Projeto construído no programa DevLinks da Rocketseat.
 
-[Clique aqui para acessar](https://dmendescruz.github.io/devlinks/)
+[Clique aqui para acessar](https://dmendescruz.github.io/DevLinks/)
 
 ## Tecnologias
 
